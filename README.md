@@ -18,20 +18,6 @@ NestJS와 TypeORM을 활용해 필요한 서버 비즈니스 로직과 DB 테이
 
 ---
 
-🚀 Featured Projects 🚀
-
-📌 **Admin Dashboard**
-- **소개:** 효율적인 비즈니스 데이터 관리를 위한 전사 관리자 대시보드 시스템
-- **주요 기술:** React, NestJS, TypeScript, TypeORM, MySQL
-- **핵심 경험:** 관계형 데이터를 프론트엔드 화면에 직관적으로 시각화하고, 이를 뒷받침하기 위해 MVC 패턴 기반의 서버 쿼리 작성 및 데이터 연동
-
-📌 **ERP**
-- **소개:** 수만 건의 대용량 비즈니스 데이터를 다루는 전사 자원 관리 시스템
-- **주요 기술:** Svelte, NestJS, TypeScript, TypeORM, MySQL
-- **핵심 경험:** TypeORM 마이그레이션을 통한 안정적인 테이블 구조 확장, 데이터 파싱 속도 최적화 및 클라이언트 과부화 최소화
-
----
-
 📧 Contact 📧
 
 - **Email:** kym0106471@naver.com
